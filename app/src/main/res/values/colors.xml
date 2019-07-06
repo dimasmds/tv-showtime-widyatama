@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#d32f2f</color>
+
+    <color name="textColorOnPrimary">#181818</color>
+    <color name="textColorOnPrimaryDark">#FFFFFF</color>
+    <color name="textColorOnSecondary">#dddddd</color>
+    <color name="textRegularColor">#181818</color>
+
+    <color name="alhpa">#40000000</color>
+    <color name="colorError">#ff7675</color>
+</resources>

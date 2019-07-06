@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuAiring"
+        android:icon="@drawable/ic_play"
+        android:title="@string/airing_today" />
+    <item
+        android:id="@+id/menuOnTheAir"
+        android:icon="@drawable/ic_live_tv"
+        android:title="@string/on_the_air" />
+
+    <item
+        android:id="@+id/menuFavorite"
+        android:icon="@drawable/ic_favorite_border_black"
+        android:title="@string/favorite" />
+</menu>

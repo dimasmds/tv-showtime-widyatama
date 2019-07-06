@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/3ae298187084602db3e292247399f766/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/7b43707d0ae1b3699476ca44d38f832c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/e51f5132e11422a59757bba0e89b1361/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/9eace26d219b381340670a5618cf3c7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5466513c05cf652e689509a357f4975c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:exifinterface:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/321b3ac4d073d0b99d1f532ca247af61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dicoding/.gradle/caches/transforms-2/files-2.1/494a955f76c22e7c99df96b37350d408/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/9ddc66a75072c6b46b71fdc622999216/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5daf1075c122cd88c2f45d6c240ed413/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/3ba26ca709a75720170ac80c4d7025f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/9c712e91b5ac73077556f113600453a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/d6268a983160b780910927d1af28b27d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/e17b8cc88d7b1142be3189b36781d9e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/957f048024e0aad19822d2319726b897/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/4d3ee1c22be482da47026a60912f404a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/20d82ee2a104242b82a6c85cc2768de4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/d8e88f58afbaef2c2b80247062d0d362/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/0544688a29950c14673d1b54333e55f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/85c598fb88e45279850ecb46d1ced14f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/678ed860abfba088afb94727a7910600/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/203e1459d89bd981dcfc8a4977da01b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/641b05ce727ddfd344fea83cff4ca7ce/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/dc7d842da872ddf2dfda9d0d35d94b0d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/24ee62456a1353f37e879d770221d52e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/6e6ef3ac416f13c818c17c16aaf7a471/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/cc96b5d4c988eb1c7f41bb1152bd80c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/d94d0ed80702b3da309831d9627e41cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/bc5c10bbf8829a901e4bcfc2bdfa5624/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/67a2af5a588e10295e83e50ae4e28a41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/028a7506a97cef152e4906e032594ba6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/27113dafc6413d98a73a482c35e7bc22/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/7ca03b07ed3de6b078a63e74149e05c4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/b5b354ad751e6bb35fa3bc6ab2a8e7aa/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+		INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:5:22-64
+uses-permission#com.widyatama.tvshowtime.core.READ_DATABASE
+ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:6:5-83
+	android:name
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:6:22-80
+uses-permission#com.widyatama.tvshowtime.core.WRITE_DATABASE
+ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:7:22-81
+application
+ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:9:5-23:19
+MERGED from [com.android.support:design:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/3ae298187084602db3e292247399f766/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/3ae298187084602db3e292247399f766/AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5466513c05cf652e689509a357f4975c/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5466513c05cf652e689509a357f4975c/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dicoding/.gradle/caches/transforms-2/files-2.1/494a955f76c22e7c99df96b37350d408/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dicoding/.gradle/caches/transforms-2/files-2.1/494a955f76c22e7c99df96b37350d408/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/641b05ce727ddfd344fea83cff4ca7ce/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/641b05ce727ddfd344fea83cff4ca7ce/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/dc7d842da872ddf2dfda9d0d35d94b0d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/dc7d842da872ddf2dfda9d0d35d94b0d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/641b05ce727ddfd344fea83cff4ca7ce/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:15:9-40
+activity#com.widyatama.favoritemovie.activity.MainActivity
+ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:16:19-83
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/3ae298187084602db3e292247399f766/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/3ae298187084602db3e292247399f766/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/7b43707d0ae1b3699476ca44d38f832c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/7b43707d0ae1b3699476ca44d38f832c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/e51f5132e11422a59757bba0e89b1361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/e51f5132e11422a59757bba0e89b1361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/9eace26d219b381340670a5618cf3c7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/9eace26d219b381340670a5618cf3c7b/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5466513c05cf652e689509a357f4975c/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5466513c05cf652e689509a357f4975c/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/321b3ac4d073d0b99d1f532ca247af61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/321b3ac4d073d0b99d1f532ca247af61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dicoding/.gradle/caches/transforms-2/files-2.1/494a955f76c22e7c99df96b37350d408/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dicoding/.gradle/caches/transforms-2/files-2.1/494a955f76c22e7c99df96b37350d408/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/9ddc66a75072c6b46b71fdc622999216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/9ddc66a75072c6b46b71fdc622999216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5daf1075c122cd88c2f45d6c240ed413/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5daf1075c122cd88c2f45d6c240ed413/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/3ba26ca709a75720170ac80c4d7025f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/3ba26ca709a75720170ac80c4d7025f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/9c712e91b5ac73077556f113600453a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/9c712e91b5ac73077556f113600453a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/d6268a983160b780910927d1af28b27d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/d6268a983160b780910927d1af28b27d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/e17b8cc88d7b1142be3189b36781d9e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/e17b8cc88d7b1142be3189b36781d9e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/957f048024e0aad19822d2319726b897/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/957f048024e0aad19822d2319726b897/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/4d3ee1c22be482da47026a60912f404a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/4d3ee1c22be482da47026a60912f404a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/20d82ee2a104242b82a6c85cc2768de4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/20d82ee2a104242b82a6c85cc2768de4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/d8e88f58afbaef2c2b80247062d0d362/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/d8e88f58afbaef2c2b80247062d0d362/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/0544688a29950c14673d1b54333e55f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/0544688a29950c14673d1b54333e55f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/85c598fb88e45279850ecb46d1ced14f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/85c598fb88e45279850ecb46d1ced14f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/678ed860abfba088afb94727a7910600/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/678ed860abfba088afb94727a7910600/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/203e1459d89bd981dcfc8a4977da01b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/203e1459d89bd981dcfc8a4977da01b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/641b05ce727ddfd344fea83cff4ca7ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/641b05ce727ddfd344fea83cff4ca7ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/dc7d842da872ddf2dfda9d0d35d94b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/dc7d842da872ddf2dfda9d0d35d94b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/24ee62456a1353f37e879d770221d52e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/24ee62456a1353f37e879d770221d52e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/6e6ef3ac416f13c818c17c16aaf7a471/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/6e6ef3ac416f13c818c17c16aaf7a471/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/cc96b5d4c988eb1c7f41bb1152bd80c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/cc96b5d4c988eb1c7f41bb1152bd80c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/d94d0ed80702b3da309831d9627e41cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/d94d0ed80702b3da309831d9627e41cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/bc5c10bbf8829a901e4bcfc2bdfa5624/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/bc5c10bbf8829a901e4bcfc2bdfa5624/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/67a2af5a588e10295e83e50ae4e28a41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/67a2af5a588e10295e83e50ae4e28a41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/028a7506a97cef152e4906e032594ba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/dicoding/.gradle/caches/transforms-2/files-2.1/028a7506a97cef152e4906e032594ba6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/27113dafc6413d98a73a482c35e7bc22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/27113dafc6413d98a73a482c35e7bc22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/7ca03b07ed3de6b078a63e74149e05c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/7ca03b07ed3de6b078a63e74149e05c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/b5b354ad751e6bb35fa3bc6ab2a8e7aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dicoding/.gradle/caches/transforms-2/files-2.1/b5b354ad751e6bb35fa3bc6ab2a8e7aa/AndroidManifest.xml:20:5-44
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+		INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+		ADDED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+		INJECTED from /home/dicoding/AndroidStudioProjects/tvshowtime/favoritemovie/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5466513c05cf652e689509a357f4975c/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5466513c05cf652e689509a357f4975c/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5466513c05cf652e689509a357f4975c/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/dicoding/.gradle/caches/transforms-2/files-2.1/5466513c05cf652e689509a357f4975c/AndroidManifest.xml:9:13-64

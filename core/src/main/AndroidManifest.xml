@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.widyatama.tvshowtime.core">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <permission
+        android:name="com.widyatama.tvshowtime.core.READ_DATABASE"
+        android:protectionLevel="normal" />
+    <permission
+        android:name="com.widyatama.tvshowtime.core.WRITE_DATABASE"
+        android:protectionLevel="normal" />
+</manifest>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="message_favorite_added">Added to Favorites</string>
+    <string name="message_delete_favorite">Movie has removed from favorite</string>
+    <string name="message_video_not_found">Video not found</string>
+</resources>

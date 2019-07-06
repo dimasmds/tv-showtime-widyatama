@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Favorite Movie</string>
+    <string name="thumbnail_movie">Thumbnail Movie</string>
+    <string name="dummy_movie_title">Title Movie Here</string>
+    <string name="dummy_rating">⭐️ %.1f</string>
+    <string name="voting">(%d voting)</string>
+    <string name="dummy_language">English</string>
+    <string name="favorited">Favorited</string>
+</resources>
